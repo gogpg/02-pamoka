@@ -40,3 +40,21 @@ console.log(typeof NaN); //number
 
 //NaN nera daugiau uz -Infinity;
 
+console.log(Math.max(...marks));   //nevisada tai geriausias budas rasti max skaiciu, nes praeina NaN ir Infinity reiksmes
+console.log(Math.max(...marks1));
+console.log(Math.max(...marks2));
+console.log(Math.max(...marks3));
+console.log(Math.max(...marks4));
+console.log(Math.max(...marks5));
+
+
+
+
+
+
+
+
+
+
+
+
